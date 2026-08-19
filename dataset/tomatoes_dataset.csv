@@ -1,0 +1,7 @@
+image_path,label,quality_score,self_life_days,spoilage_risk
+dataset/images\freshTomato\tomato1.jpg,freshTomato,95,7,0.05
+dataset/images\freshTomato\tomato2.jpg,freshTomato,90,6,0.10
+dataset/images\freshTomato\tomato3.jpg,freshTomato,85,5,0.15
+dataset/images\RottenTomato\tomato4.jpg,RottenTomato,40,1,0.80
+dataset/images\RottenTomato\tomato5.jpg,RottenTomato,25,0,0.95
+dataset/images\RottenTomato\tomato6.jpg,RottenTomato,15,0,0.99

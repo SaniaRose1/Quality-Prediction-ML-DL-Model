@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+.vscode/
+
+# TensorFlow / Python generated files
+*.h5
+
+# Optional: ignore trained model if it is too large
+# models/
+
+# Ignore large image datasets if you don't want them on GitHub
+on GitHub
+# dataset/images/
